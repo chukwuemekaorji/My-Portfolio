@@ -1,0 +1,56 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+<main>
+    <h1>Video Compilation</h1>
+    <p>This is my video compilation page.</p>
+   
+    <section>
+        <h2>I am him</h2>
+         <p>I am a great man and I am successful</p>
+         <iframe src="https://www.youtube.com/embed/_ZJpU43NA0c?si=qTKWLkZpxv3AKHP5"
+         allowfullscreen
+            title="Motivational Video"
+            height="200"
+            width="300">
+            </iframe>
+        </section>
+         
+    <section>
+        <h2>This is Cristiano Ronaldo</h2>
+        <p>He is the best player that ever lived</p>
+        <iframe src="https://www.youtube.com/embed/mmeLCAP74KA?si=r2iCt4W9xsfD-RRH"
+        allowfullscreen
+        title="The G.O.A.T"
+        height="200"
+        width="300">
+        </iframe>
+    </section>
+
+    <section>
+        <h2>Manchester is Red</h2>
+        <p>Manchester City can't relate</p>
+    <iframe src="https://www.youtube.com/embed/pqyJsMjF2JA?si=X0pLV-GPG81oMvsv"
+        allowfullscreen
+        title="We are the Red Devils!"
+        height="200"
+        width="300">
+    </iframe>
+  </section>
+
+ 
+</main
+</body>
+
+</html>
+
+** end of index.html **
+
